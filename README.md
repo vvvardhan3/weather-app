@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
 The JavaScript code for this application is located in `script.js`. It uses the `fetch` API to make a request to the WeatherAPI and update the DOM with the weather data.
 
-### Built with
+## Built with
 
 1. HTML
 2. JavaScript
